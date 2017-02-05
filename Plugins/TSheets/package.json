@@ -1,0 +1,23 @@
+{
+  "name": "TSheets",
+  "version": "1.0.0",
+  "description": "TSheets",
+  "main": "index.js",
+  "author": "Mike Sutton",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://adhoc.tsheets.com/",
+    "serviceName": "TSheets - Time Tracking",
+    "message": "Time Tracking",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
