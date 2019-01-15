@@ -1,0 +1,13 @@
+{
+  "id": "unanet",
+  "name": "Unanet",
+  "version": "1.0.1",
+  "description": "Unanet",
+  "main": "index.js",
+  "author": "Sutton <sutton@adhocteam.us>",
+  "license": "MIT",
+  "repository": "https://github.com/michaelrobertsutton/Franz-Plugins",
+  "config": {
+    "serviceURL": "https://adhocteam.unanet.biz/adhocteam/"
+  }
+}
